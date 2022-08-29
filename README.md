@@ -6,7 +6,7 @@ I found most templates were not updated to SvelteKit 1.0 and there were a few ma
 
 ## Creating a project
 
-You can either clone this repo or use degit. 
+Click the Use Template button on this [repo's page on github](https://github.com/idheepan/sveltekit-tailwindcss-template/) to create a new project based on this template. That is the easiest way. You can clone this repo or use `npx degit` as well.
 
 ```bash
 # create a copy from github repo
